@@ -1,4 +1,4 @@
-#TI84Notes
+# TI84Notes
 
 1. Download this repository.
 2. Download the TI Connect CE software [https://education.ti.com/en/products/computer-software/ti-connect-ce-sw](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw).
